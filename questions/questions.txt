@@ -1,0 +1,19 @@
+Escreva um programa em Dart que calcule a média aritmética de 3 números digitados pelo usuário.
+
+Escreva um programa em Dart que leia o nome e a idade de uma pessoa e exiba a mensagem "Olá, [nome]! Você tem [idade] anos.".
+
+Escreva um programa em Dart que leia um número inteiro e informe se ele é par ou ímpar.
+
+Escreva um programa em Dart que calcule o fatorial de um número informado pelo usuário.
+
+Escreva um programa em Dart que leia dois números inteiros e exiba todos os números ímpares entre eles.
+
+Escreva um programa em Dart que leia dois números inteiros e informe se o primeiro é múltiplo do segundo.
+
+Escreva um programa em Dart que leia uma temperatura em graus Celsius e exiba a temperatura em graus Fahrenheit. A fórmula de conversão é F = (9/5)C + 32.
+
+Escreva um programa em Dart que leia um número inteiro e informe se ele é primo ou não.
+
+Escreva um programa em Dart que leia dois números inteiros e informe qual é o maior.
+
+Escreva um programa em Dart que leia uma sequência de números inteiros terminada em zero e exiba a soma dos números digitados.
