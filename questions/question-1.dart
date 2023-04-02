@@ -1,0 +1,1 @@
+Escreva um programa em Dart que calcule a média aritmética de 3 números digitados pelo usuário.
