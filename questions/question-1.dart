@@ -6,9 +6,7 @@ void main() {
   String input = stdin.readLineSync()!;
   int number = int.parse(input);
   print('O número digitado foi $number');
-}
 
-void main() {
   stdout.write('Digite o primeiro número: ');
   double num1 = double.parse(stdin.readLineSync()!);
 
@@ -21,3 +19,4 @@ void main() {
   double media = (num1 + num2 + num3) / 3;
   print('A média aritmética dos números digitados é: $media');
 }
+
