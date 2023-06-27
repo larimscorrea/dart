@@ -3,11 +3,12 @@ import 'dart:io';
 
 void main() {
   stdout.write('Escreva um número? ');
-  int number1 = int.parse(stdin.readLineSync());
-  int number2 = int.parse(stdin.readLineSync());
+  int number1 = int.parse(stdin.readLineSync()!);
+  int number2 = int.parse(stdin.readLineSync()!);
 
-  function operation() {
-    (if number1 != 0 & number2 != 0) {
+  operation() {
+    if (number1 != 0 && number2 != 0) {
+      
     }
   }
   
